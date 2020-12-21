@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/wander/coding/backend_notes'
+let g:netrw_dirhist_2='/home/wander/desktop'
+let g:netrw_dirhist_3='/home/wander/coding_notes/html-css/forms'
+let g:netrw_dirhist_4='/home/wander/code/sandbox/node/web-scraper'
+let g:netrw_dirhist_5='/home/wander/coding_notes/eloquent_javascript'
